@@ -1,12 +1,19 @@
 ### Hi there, I'm Yang Di 👋
 
+![image](https://github.com/Ericdiii/Ericdiii/blob/main/tech.png?raw=true)
+
 **About me**
+
+<a href="https://github.com/Ericdiii">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericdiii&layout=compact">
+</a>
 
 - 📚 PhD student at [UOW](https://www.uow.edu.au/)
 
 - 👨🏻‍💻 Focus on deep learning and computer vision
 
 - 🧡 Drawing / Soccer / Running / Badminton / EDM
+
 
 
 ## Tools
