@@ -1,5 +1,6 @@
 ### Hi there, I'm Yang Di 👋
 
+
 ![image](https://github.com/Ericdiii/Ericdiii/blob/main/tech.png?raw=true)
 
 **About me**
@@ -14,7 +15,21 @@
 
 - 🧡 Drawing / Soccer / Running / Badminton / EDM
 
-
+<a href="https://www.linkedin.com/in/-yangdi/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-yangdi-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.facebook.com/ericdiii" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-ericdiii-05122A?style=flat&logo=facebook" alt="codepen"/>
+</a>
+<a href="https://twitter.com/ericdiii_" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-ericdiii-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+<a href="https://www.instagram.com/ericdiii_/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-ericdiii-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://github.com/Ericdiii" target="_blank">
+  <img align="center" img src="https://komarev.com/ghpvc/?username=ericdiii&color=yellow" alt="Profile views" />
+</a>
 
 ## Tools
 <p align="left">
@@ -31,3 +46,5 @@
   <img alt="latex" src="https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=LaTeX&logoColor=white" >
   <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" >
 </p>
+
+
