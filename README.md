@@ -1,7 +1,8 @@
-### Hi there, I'm Yang Di 👋
-
+<h1 align="left">Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
 ![image](https://github.com/Ericdiii/Ericdiii/blob/main/tech.png?raw=true)
+
+I'm Yang Di and welcome to my GitHub profile!
 
 **About me**
 
@@ -31,7 +32,7 @@
   <img align="center" img src="https://komarev.com/ghpvc/?username=ericdiii&color=blue" alt="Profile views" />
 </a>
 
-## Tools
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tools
 <p align="left">
   <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" >
   <img alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" >
