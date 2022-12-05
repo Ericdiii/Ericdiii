@@ -1,4 +1,4 @@
-<h1 align="left">Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
+<h1 align="left">Hello World! 👋 </h1>
 
 ![image](https://github.com/Ericdiii/Ericdiii/blob/main/tech.png?raw=true)
 
